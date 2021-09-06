@@ -1,5 +1,5 @@
 # ------------------------------------------------
-# Program by Denis Astahov
+# Program by Sonata Software
 #
 #
 # Version      Date           Info
